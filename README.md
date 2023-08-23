@@ -8,3 +8,6 @@ react学习项目，慕课网课程
 命令 npx create-react-app react-ts-demo --template typescript  
 * 使用 vite 创建项目  
 命令 npm create vite@latest my-vue-app --template react-ts  
+
+* 安装prettier规范代码提交格式  
+命令 npm install prettier eslint-plugin-prettier eslint-config-prettier --save-d  
